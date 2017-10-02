@@ -10,4 +10,3 @@ for x in formlist :
         out.append(push)
     i += 1
 print(''.join(out).upper())
-print(formlist)
